@@ -126,5 +126,28 @@
 # ]
 
 
-if len >
-user_input:list[str] = input
+# if len >
+# user_input:list[str] = input
+
+
+# letter: str = list(input())
+# sep: str = input()
+# print(sep.join(letter))
+
+
+
+
+# population: dict[str,int]
+# "Moscow": 14_000_000,
+# "Saint-Peterburg": 9_000_000
+
+
+
+
+
+
+
+
+
+
+
