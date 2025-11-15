@@ -142,6 +142,31 @@
 # "Saint-Peterburg": 9_000_000
 
 
+# 
+
+
+
+
+
+import math
+from random import randint
+from datetime import datetime
+import pandas as pd
+
+
+
+df = pd.read_csv()
+
+
+
+print(math.cos(30))
+print(randint(1, 20))
+print(datetime.today())
+      
+
+
+
+
 
 
 
